@@ -7,4 +7,4 @@ Aya Gougou: I love sushi.
 Yasmina Gamal: I love reading..
 Kareem Adel: I love dodgeball
 
-Design: ![Photo12](http://www.hit-counts.com/how-smes-large-companies-using-crowdsourcing/)
+Design: ![Photo12](http://www.hit-counts.com/wp-content/uploads/2015/07/crowdsourcing.jpg)
