@@ -5,5 +5,4 @@ About: Ingy Ahmad: I love pizza..
 Farah Rezk: I love dogs.
 Aya Gougou: I love sushi.
 Yasmina Gamal: I love reading.
-Design:https://www.google.com.eg/search?q=adidas+shoes&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjsysnroabZAhUHJ8AKHWE1D1EQ_AUICigB&biw=1536&bih=759#imgrc=fyEE-SLwOTFhGM:
-...
+Design:http://www.hit-counts.com/how-smes-large-companies-using-crowdsourcing/
