@@ -4,4 +4,5 @@ Authors: Ingy Ahmad, 37-6355,, Farah Rezk, 37-1810,, Kareem Adel, 37-11503,, Aya
 About: Ingy Ahmad: I love pizza.
 Farah Rezk: I love dogs.
 Aya Gougou: I love sushi.
+Yasmina Gamal: I love reading.
 Design: http://www.hit-counts.com/how-smes-large-companies-using-crowdsourcing/
